@@ -16,8 +16,8 @@ login_url = "https://fsis.thu.edu.tw/mosi/ccsd3/index.php?job=stud&loginn=&r=htt
 grades_url = "https://fsiso.thu.edu.tw/wwwstud/STUD_V6/COURSE/rcrd_all_gpa.php"
 
 # 登入的帳號和密碼
-username = "s10350106"
-password = "aa920216"
+username = ""
+password = ""
 
 # GPA 對應表
 gpa_conversion = {
